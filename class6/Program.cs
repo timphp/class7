@@ -18,6 +18,7 @@ namespace class6
             Console.WriteLine("its in new branch");
             Console.WriteLine("where it is?");
             Console.WriteLine("where is my commit?");
+            Console.WriteLine("are we here?");
         }
     }
 }
