@@ -14,6 +14,9 @@ namespace class6
             Console.WriteLine("hello new");
             Console.WriteLine("New one!");
             Console.WriteLine("Learn something more");
+            Console.WriteLine("New branch");
+            Console.WriteLine("its in new branch");
+            Console.WriteLine("where it is?");
         }
     }
 }
