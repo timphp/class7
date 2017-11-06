@@ -13,6 +13,7 @@ namespace class6
             Console.WriteLine("Hello Git!");
             Console.WriteLine("hello new");
             Console.WriteLine("New one!");
+            Console.WriteLine("Learn something more");
         }
     }
 }
