@@ -10,7 +10,9 @@ namespace class6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git! Once more");
+            Console.WriteLine("Hello Git!");
+            Console.WriteLine("hello new");
+            Console.WriteLine("New one!");
         }
     }
 }
